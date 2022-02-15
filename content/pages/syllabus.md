@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 123f7575-a228-234b-edf0-1bc9f1bb0175
 ---
@@ -113,7 +115,7 @@ C+= 77–79%  C= 73–76%  C-= 70–72%
 
 D+= 67–69%  D= 63–66%  D-= 60–62%
 
-F= <60%
+F= \<60%
 
 Additional Requirements
 -----------------------
