@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section describes the assignments the students completed during
+  this course. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
