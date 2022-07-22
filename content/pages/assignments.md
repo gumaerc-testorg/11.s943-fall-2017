@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section describes the assignments the students completed during
+  this course. '
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 1dbce728-3299-70ce-ceaf-cf3e91085028
 ---
